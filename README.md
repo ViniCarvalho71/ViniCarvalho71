@@ -18,6 +18,6 @@
 - Repositório de estudos em C: https://github.com/ViniCarvalho71/Estudos_C
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCarvalho71&layout=compact">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCarvalho71&layout=compact" />
 </a>
