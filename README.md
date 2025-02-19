@@ -17,4 +17,7 @@
 - Repositório de estudos de estrutura de dados: https://github.com/ViniCarvalho71/EstruturaDeDados
 - Repositório de estudos em C: https://github.com/ViniCarvalho71/Estudos_C
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCarvalho71&layout=compact" />
+</a>
