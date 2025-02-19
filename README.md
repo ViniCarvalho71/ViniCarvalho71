@@ -18,6 +18,5 @@
 - Repositório de estudos em C: https://github.com/ViniCarvalho71/Estudos_C
 
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCarvalho71&layout=compact">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCarvalho71&layout=compact&theme=dark" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight)
+![ViniCarvalho71's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=material-palenight&show_icons=true)
