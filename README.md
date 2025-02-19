@@ -2,12 +2,8 @@
 
 # Tecnologias
 
-- .NET 8
-- SQLServer
-- MySQL
-- Python
-- C
 - HTML 5, CSS3 e JS
+- Tailwind CSS
 
 # Projetos pessoais
 
