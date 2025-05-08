@@ -12,7 +12,7 @@
 # Projetos pessoais
 
 - API em .NET 8: https://github.com/ViniCarvalho71/WebApiDotNet8
-- Projeto MVC em .NET 6: https://github.com/ViniCarvalho71/ProjetoMVCDotNet
+- Projeto pessoal de uma API com Identity: https://github.com/ViniCarvalho71/SafeNetAPI
 - Controle de estoques de uma fábrica de calçados em .NET 6: https://github.com/ViniCarvalho71/ControleDeEstoqueDeCalcados
 - Repositório de estudos de estrutura de dados: https://github.com/ViniCarvalho71/EstruturaDeDados
 - Repositório de estudos em C: https://github.com/ViniCarvalho71/Estudos_C
