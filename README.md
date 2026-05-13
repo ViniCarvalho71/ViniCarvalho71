@@ -3,6 +3,9 @@
 # Tecnologias
 
 - .NET
+- React
+- VHDL
+- Postgres
 - SQLServer
 - MySQL
 - Python
