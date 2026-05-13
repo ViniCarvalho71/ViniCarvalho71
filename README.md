@@ -2,7 +2,7 @@
 
 # Tecnologias
 
-- .NET 8
+- .NET
 - SQLServer
 - MySQL
 - Python
